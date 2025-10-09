@@ -24,3 +24,11 @@ A schematic overview of the pipeline's parts is included below:
 
 ### 3. Geneset Enrinchment Analysis
 ![msci-big-pic-GSEA-blocks.png](img/msci-big-pic-GSEA-blocks.png)
+
+___
+
+All sources placed within numbered directories with numbered python source files. The numbers denote the order of execution. The data isn't included and must be downloaded from https://ida.loni.usc.edu/. Also, any string literal denoting a directory on the filesystem must be adjusted and created, in case a directory is supposed to store results generated from any of the sourcefiles.
+
+The DGEA part of the study is written in R and included within this repository as well.
+
+In case of questions please do not hesitate to raise them as an issue in the respective section of this repository and I'll do my best to answer as soon as possible.
